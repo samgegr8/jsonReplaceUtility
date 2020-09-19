@@ -8,6 +8,8 @@ install the dependencies using the command
 
 `pip install requirement.txt`
 
+Test
+
 run the command from your terminal with the following syntax
 
 `python jsonMergeUtility.py <sourceDirectoryFile> <sourceJsonFile>`
